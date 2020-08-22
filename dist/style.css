@@ -1,0 +1,11 @@
+body {
+  background: #141414;
+}
+img {
+  padding: 4.7rem 0 4rem 0;
+}
+@media (max-width: 500px) {
+  img {
+    padding: 3rem 0 3rem 0;
+  }
+}
